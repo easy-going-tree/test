@@ -1,6 +1,8 @@
 Windows11で、新規ツールバーがなくなり、アプリ起動を不便に感じたため、
 見よう見まねでタスクトレイにアプリの一覧メニューを表示するプログラムを作成しました。
 
+ソースは、UTF-8でお願いします。
+
 MenuIniCryptEditor.java
 暗号化復号化エディッタです。
 下記の「TaskTrayAppExec.java」で使用する設定ファイル「menuinicrypteditor.ini」専用です。　
